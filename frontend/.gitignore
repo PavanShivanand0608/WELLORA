@@ -1,0 +1,18 @@
+# Frontend dependencies and generated output
+node_modules/
+dist/
+dist-ssr/
+coverage/
+*.tsbuildinfo
+
+# Local environment files; keep the example template
+.env
+.env.*
+!.env.example
+
+# Logs and local tool output
+logs/
+*.log
+*.local
+playwright-report/
+test-results/

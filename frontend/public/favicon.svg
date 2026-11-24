@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">WELLORA</title>
+  <rect width="64" height="64" rx="16" fill="#F4F0E9" />
+  <path d="M47 12c-12 .7-21.5 4.8-25.7 11.7-3.9 6.4-2.2 13.7 2.6 16.6 4.7 2.9 11.8.8 15.8-5.7C43.8 28.1 45.8 19.4 47 12Z" fill="#FF9F70" />
+  <path d="M17 51c7-10.7 14.7-18.8 26-27" fill="none" stroke="#1E1E1E" stroke-linecap="round" stroke-width="3.5" />
+</svg>
