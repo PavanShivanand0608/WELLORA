@@ -1,0 +1,77 @@
+# Dependencies
+node_modules/
+
+# Build output and coverage
+dist/
+build/
+coverage/
+dist-ssr/
+backend/dist/
+frontend/dist/
+.nyc_output/
+.pytest_cache/
+.vitest/
+test-results/
+playwright-report/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+frontend/.env
+frontend/.env.*
+frontend/.env.local
+!frontend/.env.example
+
+# Python virtual environments and bytecode
+.venv/
+venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.py[cod]
+
+# Logs and test output
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+junit.xml
+*.lcov
+
+# Local database and backup files
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.dump
+*.bak
+
+# Keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.crt
+
+# OS, editor, and temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.temp
+*.tsbuildinfo
+.eslintcache
+.oxlintcache
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.local

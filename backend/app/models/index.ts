@@ -1,0 +1,6 @@
+export { EatingPattern } from './EatingPattern.js'
+export { Meal } from './Meal.js'
+export { Nutrition } from './Nutrition.js'
+export { RecommendationFeedback } from './RecommendationFeedback.js'
+export { User } from './User.js'
+export { UserSettings } from './UserSettings.js'
